@@ -1,0 +1,24 @@
+* {
+ 
+}
+p {
+  font-family: "Open Sans";
+}
+p.by_line {
+  font-family: Condiment;
+  font-style: italic;
+}
+h1 {
+  font-family: "Denk One";
+  text-transform: uppercase;
+}
+h2 {
+  font-family: Cinzel;
+}
+a {
+  font-size: 10px;
+  /*text-decoration: none;*/
+}
+a:hover {
+  color: red;
+}
